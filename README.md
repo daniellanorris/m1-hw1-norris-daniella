@@ -1,6 +1,6 @@
 # My First Coding Assignment #
 
-<iframe src="https://giphy.com/embed/XTdafgrVtDHpe" width="480" height="396" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/betty-white-XTdafgrVtDHpe">via GIPHY</a></p>
+![Betty White](https://media.giphy.com/media/QV38l8Q0N193q/giphy.gif)
 
 ## About Me ##
 
